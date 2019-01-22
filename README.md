@@ -1,2 +1,2 @@
 # webhook-test
-This is a web hook test foe AWS CI/CD 
+This is a web hook test for AWS CI/CD 
